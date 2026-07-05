@@ -58,8 +58,11 @@ This project aims to predict mobile phone prices using Machine Learning techniqu
 6. Model Building
 7. Model Evaluation
 8. Feature Importance Analysis
-9. Business Insights
-10. Conclusion
+9. Pair Plot Analysis
+10 Skewness Analysis
+11 Kurtosis Analysis
+12. Business Insights
+13. Conclusion
 
 ---
 
